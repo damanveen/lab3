@@ -79,7 +79,18 @@ public class AddressBook
 	{
 		return true;
 	}
-
+	
+	
+	public void Test(){
+		
+		//this is new test code for testing branches in GIT
+		
+		//online edits
+		
+		
+	}
+	
+	
 	/**
 	 * @param args
 	 */
